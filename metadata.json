@@ -1,0 +1,7 @@
+{
+  "name": "Virtual Stylist",
+  "description": "A professional AI-powered virtual stylist for previewing hairstyles and beard configurations using Gemini 2.5 Flash Image.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
